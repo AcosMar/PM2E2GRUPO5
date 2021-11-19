@@ -206,5 +206,17 @@ namespace PM2E2GRUPO5
             
 
         }
+
+        private async void btnUbicacionesSalvadas_Clicked(object sender, EventArgs e)
+        {
+            var a = new ListSitios();
+            await Navigation.PushAsync(a);
+        }
+
+        private async void btnListUbication_Clicked(object sender, EventArgs e)
+        {
+            var a = new ListSitios();
+            await Navigation.PushAsync(a);
+        }
     }
 }

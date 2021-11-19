@@ -18,6 +18,7 @@
                 Order="Primary"
                 x:Name="btnListUbication"
                 Text="Ubicacion Salvada"
+                Clicked="btnListUbication_Clicked"
                 
             />
 
@@ -29,7 +30,7 @@
             <!--Logo Principal-->
             <Image 
                      
-                    Margin="20,5,10,5"
+                    Margin="20,0,10,0"
                    Source="https://uth.hn/igfhonduras/wp-content/uploads/2019/11/logouth.png"/>
 
 
@@ -110,7 +111,8 @@
                     HeightRequest="50"
                     CornerRadius="10"
                     BackgroundColor="BurlyWood"
-                    Text="Ubicaciones Salvadas" 
+                    Text="Ubicaciones Salvadas"
+                    Clicked="btnUbicacionesSalvadas_Clicked"
                     />
 
         </StackLayout>

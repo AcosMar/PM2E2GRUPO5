@@ -729,7 +729,9 @@ D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\android\sr
 D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\android\src\crc64cc3626d3e1fedb3e\VideoPlayerRenderer.java
 D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\res\xml\file_paths.xml
 D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
-D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\androidx\jl\df6a3bc7-8aa2-42bb-92c0-6d0934fd6159.jar
-D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\androidx\proguard\072d2657-4b40-4344-8dd3-35811a1650fd.txt
-D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\androidx\proguard\07c550ec-e91f-41e1-af3d-fb362ce5f2ff.txt
-D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\androidx\proguard\3b31678d-d3f6-41bc-876c-1658c384640d.cfg
+D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\android\assets\Microsoft.CSharp.dll
+D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\android\assets\Microsoft.CSharp.pdb
+D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\androidx\jl\4c5c906b-f7e4-4fb5-969f-f6e997789485.jar
+D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\androidx\proguard\46fe48cf-b40d-404d-9154-56ab00f759c7.cfg
+D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\androidx\proguard\6c2162e4-aa80-47c6-86ea-4b52746ea638.txt
+D:\Movil II\PM2E2GRUPO5\PM2E2GRUPO5\PM2E2GRUPO5.Android\obj\Debug\110\androidx\proguard\d77c565e-fed4-46f7-805c-e230514f7756.txt
