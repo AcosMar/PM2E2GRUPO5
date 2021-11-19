@@ -33,13 +33,26 @@
                    Source="https://uth.hn/igfhonduras/wp-content/uploads/2019/11/logouth.png"/>
 
 
+            <StackLayout  Margin="50,0,50,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="150"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Image x:Name="fotografia" BackgroundColor="LightSlateGray"/>
+                </Grid>
+            </StackLayout>
+
+            
             <StackLayout Margin="90,10,20,10"
                             Orientation="Horizontal">
+
                 <Button x:Name="btnTomarFoto"
                     HeightRequest="50"
                     CornerRadius="20"
                     BackgroundColor="BurlyWood"
-                    Text="Tomar Foto" 
+                    Text="Tomar Foto"
+                    Clicked="btnTomarFoto_Clicked"
                     />
 
                 <Button  x:Name="btnBuscarFoto"
@@ -47,7 +60,10 @@
                     CornerRadius="20"
                     BackgroundColor="BurlyWood"
                     Text="Buscar Foto"
+                    Clicked="btnBuscarFoto_Clicked"
                     />
+                
+                <Label x:Name="pathFoto" FontSize="1"/>
             </StackLayout>
 
             <!--Ingresa Latitud-->
@@ -83,7 +99,8 @@
                     HeightRequest="50"
                     CornerRadius="10"
                     BackgroundColor="BurlyWood"
-                    Text="Salvar Ubicacion" 
+                    Text="Salvar Ubicacion"
+                    Clicked="btnSalvarUbicacion_Clicked"
                     />
             
             

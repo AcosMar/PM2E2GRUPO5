@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NgI8nXexy/pDjnYNV6mOWpae/iiJ4WI31vgtf1aCMFb1eVyE7rA3N2OLCQTHMFjgWOpONT3mqIZK99Tuh33fcA==",
+  "dgSpecHash": "8c3HJlQuvCn3CU9bFmbH9Wl3nkm03GtDPRTNAGaF0NSuxUeS30ToSyGvnxlVo6GZFghEg0lt+aaVAgIpEyRL+Q==",
   "success": true,
   "projectFilePath": "D:\\Movil II\\PM2E2GRUPO5\\PM2E2GRUPO5\\PM2E2GRUPO5.Android\\PM2E2GRUPO5.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\acost\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\plugin.currentactivity\\2.1.0.2\\plugin.currentactivity.2.1.0.2.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
@@ -15,7 +16,9 @@
     "C:\\Users\\acost\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\acost\\.nuget\\packages\\xam.forms.videoplayer\\1.0.8\\xam.forms.videoplayer.1.0.8.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\acost\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\xamarin.android.support.annotations\\25.4.0.2\\xamarin.android.support.annotations.25.4.0.2.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\xamarin.android.support.compat\\25.4.0.2\\xamarin.android.support.compat.25.4.0.2.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\xamarin.android.support.core.utils\\25.4.0.2\\xamarin.android.support.core.utils.25.4.0.2.nupkg.sha512",
