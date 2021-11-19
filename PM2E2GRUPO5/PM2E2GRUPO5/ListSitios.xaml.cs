@@ -90,7 +90,7 @@ namespace PM2E2GRUPO5
             objSitioGlobal = new
             {
                 id = sitioSelecionado.id,
-                lalitud = sitioSelecionado.lalitud,
+                latitud = sitioSelecionado.lalitud,
                 longitud = sitioSelecionado.longitud,
                 descripcion = sitioSelecionado.descripcion,
                 imagen = ImageSource.FromStream(() => new MemoryStream(Convert.FromBase64String(sitioSelecionado.img64)))
@@ -155,9 +155,9 @@ namespace PM2E2GRUPO5
         {
             if (objSitioGlobal != null)
             {
-                //var detalle = new DetalleProducto();
-                //detalle.BindingContext = producto;
-                //await Navigation.PushAsync(detalle);
+                var detalle = new ModificarDatosPage();
+                detalle.BindingContext = objSitioGlobal;
+                await Navigation.PushAsync(detalle);
             }
             else
             {
